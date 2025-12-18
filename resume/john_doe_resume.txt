@@ -1,0 +1,37 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1-555-201-8899
+
+SUMMARY
+Software engineer with 3+ years of experience building backend systems and APIs. Strong in Python, data processing, and cloud deployments.
+
+SKILLS
+Python, FastAPI, SQL, PostgreSQL, Docker, AWS Lambda, S3, Git, REST APIs, Unit Testing
+
+EXPERIENCE
+
+Backend Engineer — CloudNova Tech (2022–Present)
+- Built FastAPI-based microservices used by 50k+ daily users
+- Designed and optimized PostgreSQL database schemas
+- Deployed serverless applications on AWS Lambda
+- Implemented CI/CD pipelines using GitHub Actions
+- Reduced API response times by 40% through caching strategies
+
+Junior Developer — StartupXYZ (2020–2022)
+- Developed Python scripts for data processing and ETL
+- Created REST APIs for mobile applications
+- Worked with Docker containers for local development
+- Collaborated with frontend teams on API design
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology — 2020
+
+PROJECTS
+- Personal finance tracker using Python and Flask
+- Open source contributor to popular Python libraries
+- Built a chatbot using Python and NLP techniques
+
+CERTIFICATIONS
+- AWS Certified Developer Associate
+- Python Professional Certificate

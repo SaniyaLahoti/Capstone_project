@@ -1,0 +1,44 @@
+Job Title: Software Engineer
+
+Company: TechStartup Inc.
+
+Location: Remote
+
+About Us:
+We are a fast-growing technology startup building innovative cloud-based solutions for enterprise clients.
+
+Job Description:
+We are seeking a highly motivated and experienced Software Engineer to join our dynamic team. The ideal candidate will have a strong background in Python, Java, and cloud platforms like AWS.
+
+Experience with machine learning frameworks and distributed systems is a plus.
+
+Responsibilities:
+- Design, develop, and maintain scalable software solutions
+- Participate in code reviews and provide constructive feedback
+- Collaborate with cross-functional teams including product, design, and QA
+- Write clean, well-documented, and testable code
+- Troubleshoot and optimize application performance
+- Contribute to system architecture decisions
+
+Requirements:
+- Bachelor's degree in Computer Science or related field required
+- Master's degree preferred
+- 3+ years of professional software development experience
+- Strong proficiency in Python and/or Java
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Familiarity with Docker and containerization
+- Understanding of RESTful API design
+- Strong problem-solving and communication skills
+
+Nice to Have:
+- Experience with machine learning frameworks (TensorFlow, PyTorch)
+- Knowledge of distributed systems and microservices architecture
+- Contributions to open source projects
+- Experience with Kubernetes
+
+Benefits:
+- Competitive salary
+- Remote work flexibility
+- Health insurance
+- Professional development budget
+- Stock options

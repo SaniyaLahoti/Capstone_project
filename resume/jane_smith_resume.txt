@@ -1,0 +1,46 @@
+Jane Smith
+Email: jane.smith@example.com
+Phone: +1-555-302-7744
+
+SUMMARY
+Full-stack developer with 5 years of experience in Java, Python, and cloud technologies. Passionate about building scalable distributed systems and mentoring junior developers.
+
+SKILLS
+Java, Spring Boot, Python, Django, AWS (EC2, ECS, S3, RDS), Kubernetes, Docker, PostgreSQL, MongoDB, Redis, Kafka, React, TypeScript, CI/CD, Microservices Architecture
+
+EXPERIENCE
+
+Senior Software Engineer — TechCorp Inc. (2021–Present)
+- Lead a team of 5 engineers developing microservices architecture
+- Designed and implemented distributed systems handling 1M+ requests/day
+- Migrated monolithic application to Kubernetes on AWS EKS
+- Implemented machine learning pipeline for recommendation system
+- Mentored junior developers and conducted code reviews
+
+Software Engineer — DataFlow Systems (2019–2021)
+- Built Java Spring Boot backend services for enterprise clients
+- Developed Python data processing pipelines using Apache Kafka
+- Created real-time dashboards using React and TypeScript
+- Optimized database queries reducing response time by 60%
+
+Junior Developer — WebAgency (2018–2019)
+- Developed web applications using Django and React
+- Implemented RESTful APIs and third-party integrations
+- Participated in agile development practices
+
+EDUCATION
+Master of Science in Computer Science
+State University — 2018
+
+Bachelor of Science in Software Engineering
+Tech College — 2016
+
+PROJECTS
+- Open source contributor to Apache Kafka
+- Personal blog on distributed systems design
+- Machine learning model for stock prediction
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional
+- Certified Kubernetes Administrator
+- Oracle Certified Java Developer
