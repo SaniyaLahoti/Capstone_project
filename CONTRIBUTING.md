@@ -155,7 +155,7 @@ We especially welcome contributions in:
 
 ## 🤔 Questions?
 
-- Open a [discussion](https://github.com/yourusername/multi-hop-rag-resume-screening/discussions)
+- Open a [discussion](https://github.com/SaniyaLahoti/Capstone_project/discussions)
 - Check existing issues and PRs
 - Reach out to maintainers
 

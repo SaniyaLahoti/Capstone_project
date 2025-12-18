@@ -6,6 +6,8 @@
 
 > Automated resume screening system using Multi-Hop RAG (Retrieval-Augmented Generation) and PEC (Planner-Executor-Critic) agent architecture.
 
+**Repository:** https://github.com/SaniyaLahoti/Capstone_project
+
 ## ✨ Features
 
 - 🔍 **Multi-Hop RAG Pipeline**: 3-hop retrieval system for intelligent candidate matching
@@ -26,7 +28,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/multi-hop-rag-resume-screening.git
+git clone https://github.com/SaniyaLahoti/Capstone_project.git
 cd multi-hop-rag-resume-screening
 
 # Install dependencies
@@ -207,8 +209,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/multi-hop-rag-resume-screening/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/multi-hop-rag-resume-screening/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/SaniyaLahoti/Capstone_project/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/SaniyaLahoti/Capstone_project/discussions)
 
 ## 🗺️ Roadmap
 
